@@ -11,7 +11,7 @@ announce the winner.
 
 ### Links
 
-- Live Site URL: https://aidenm99.github.io/Dicee/
+- Live Site URL: https://aidenm99.github.io/Dicee-Game/
 
 ### Built with
 
